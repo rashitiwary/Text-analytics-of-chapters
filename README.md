@@ -1,4 +1,4 @@
-**Text-analytics-of-chapters**
+**Sentiment analysis**
 
 For this project, the dataset comprises an extensive document structured into 11 chapters, identified by Roman numerals (e.g., "I", "II"). To efficiently manage and process the text, a dictionary was created using the "which" function in R to organize the chapters. Once segregated, all the chapters were loaded into a VCorpus.
 
